@@ -1,5 +1,4 @@
 # simple-openni
-
 Credits go completely to Max Rheiner and his Project:
 https://code.google.com/archive/p/simple-openni/
 
