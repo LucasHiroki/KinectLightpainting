@@ -1,0 +1,2 @@
+SimpleOpenNI/library/NiTE2/Data/lbsdata.idx filter=lfs diff=lfs merge=lfs -text
+SimpleOpenNI/library/NiTE2/Data/lbsdata.lbd filter=lfs diff=lfs merge=lfs -text
